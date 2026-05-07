@@ -25,7 +25,7 @@ cleaned in Power Query, queried in SQL, visualised in Power BI.
 ---
 
 ## Key Findings
-- **Fashion** - 51.8% of revenue at 43.45% margin — highest volume and margin category
+- **Fashion** - 51.8% of revenue at 43.45% margin - highest volume and margin category
 - **November peak** - ₹0.61M driven by festive demand
 - **Q1 opportunity** - January–February 60% below peak - clear campaign window
 - **Electronics underperforms** - lowest revenue and margin despite high ticket size
